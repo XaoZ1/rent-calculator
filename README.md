@@ -1,12 +1,19 @@
-# project
+# 租金计算器 Rent calculator
+
 
 > An electron-vue project
+
+#### introduce
+This application can calculation increasing rents.
+
+计算递增租金
+
 
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn # or npm install
 
 # serve with hot reload at localhost:9080
 npm run dev
@@ -14,8 +21,11 @@ npm run dev
 # build electron application for production
 npm run build
 
+# build electron application for production
+npm run package
 
 ```
+#### 
 
 ---
 
